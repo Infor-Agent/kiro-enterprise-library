@@ -1,0 +1,67 @@
+########################################################################
+# DEFAULT OWNER
+########################################################################
+
+* @Infor-Agent/AI-Governance
+
+
+########################################################################
+# ENTERPRISE STEERING
+########################################################################
+
+/.kiro/steering/enterprise/ @Infor-Agent/AI-Governance
+/.kiro/steering/shared-architecture/ @Infor-Agent/AI-Governance
+
+
+########################################################################
+# H5 SDK
+########################################################################
+
+/.kiro/skills/h5sdk/ @Infor-Agent/H5SDK-Maintainers
+/.kiro/agents/h5sdk/ @Infor-Agent/H5SDK-Maintainers
+/.kiro/steering/h5sdk/ @Infor-Agent/H5SDK-Maintainers
+
+
+########################################################################
+# H5 Script
+########################################################################
+
+/.kiro/skills/h5script/ @Infor-Agent/H5Script-Maintainers
+/.kiro/agents/h5script/ @Infor-Agent/H5Script-Maintainers
+/.kiro/steering/h5script/ @Infor-Agent/H5Script-Maintainers
+
+
+########################################################################
+# XtendM3
+########################################################################
+
+/.kiro/skills/xtendm3/ @Infor-Agent/XtendM3-Maintainers
+/.kiro/agents/xtendm3/ @Infor-Agent/XtendM3-Maintainers
+/.kiro/steering/xtendm3/ @Infor-Agent/XtendM3-Maintainers
+
+
+########################################################################
+# MEC
+########################################################################
+
+/.kiro/skills/mec/ @Infor-Agent/MEC-Maintainers
+/.kiro/agents/mec/ @Infor-Agent/MEC-Maintainers
+/.kiro/steering/mec/ @Infor-Agent/MEC-Maintainers
+
+
+########################################################################
+# ION
+########################################################################
+
+/.kiro/skills/ion/ @Infor-Agent/ION-Maintainers
+/.kiro/agents/ion/ @Infor-Agent/ION-Maintainers
+/.kiro/steering/ion/ @Infor-Agent/ION-Maintainers
+
+
+########################################################################
+# IDM
+########################################################################
+
+/.kiro/skills/idm/ @Infor-Agent/IDM-Maintainers
+/.kiro/agents/idm/ @Infor-Agent/IDM-Maintainers
+/.kiro/steering/idm/ @Infor-Agent/IDM-Maintainers
